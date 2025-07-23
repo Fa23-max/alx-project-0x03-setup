@@ -1,5 +1,4 @@
 
-import { ButtonProps } from "@/interface";
 interface ButtonProps {
   buttonLabel: string
   buttonSize?: string
@@ -7,7 +6,7 @@ interface ButtonProps {
   action?: () => void
 }
 
-
+// Removed duplicate and incorrect Button declaration
 const Button = ({ buttonLabel, buttonSize, buttonBackgroundColor, action }: ButtonProps) => {
 
   const backgroundColorClass = buttonBackgroundColor ? {
