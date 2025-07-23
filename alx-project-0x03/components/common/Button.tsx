@@ -25,3 +25,4 @@ const Button = ({ buttonLabel, buttonSize, buttonBackgroundColor, action }: Butt
 }
 
 export default Button;
+// ["import { ButtonProps }"]
