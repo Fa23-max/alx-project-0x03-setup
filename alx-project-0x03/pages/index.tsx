@@ -7,3 +7,5 @@ const Home = () => {
 }
 
 export default Home;
+
+// ["<h1> Welcome to Splash App </h1>"]
