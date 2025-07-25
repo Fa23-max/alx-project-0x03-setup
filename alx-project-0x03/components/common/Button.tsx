@@ -24,3 +24,4 @@ const Button = ({ buttonLabel, buttonSize, buttonBackgroundColor, action }: Butt
 }
 
 export default Button
+// components/common/Button.tsx doesn't contain: ["import { ButtonProps }"]
