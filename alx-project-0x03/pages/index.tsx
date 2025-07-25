@@ -35,3 +35,4 @@ export default function Home() {
 }
 
 // ["import { PageRouteProps }"]
+// ["<h1> Welcome to Splash App </h1>"]
